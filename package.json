@@ -1,0 +1,17 @@
+{
+  "name": "easy881work",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "pg เกมแตกง่าย เว็บสล็อต เว็บเดิมพันออนไลน์ รูปแบบใหม่ รวมเกมคาสิโนทุกค่ายดัง ไว้ใน เว็บคาสิโนที่เดียว",
+  "keywords": [
+    "ufa4",
+	"pg slot888",
+	"pg แจกฟรี",
+	"pg เกมแตก"
+  ],
+  "repository": "https://github.com/knkal145214/work1.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
